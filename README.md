@@ -68,5 +68,5 @@
 
 ##FAQ
 ###I can't connect to my Edison's serial port, what is wrong?
-   Check if the Edison has been secured properly with the nuts
-   Check that the serial port is the correct one
+    Check if the Edison has been secured properly with the nuts
+    Check that the serial port is the correct one
